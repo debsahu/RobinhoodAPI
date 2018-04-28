@@ -2,6 +2,8 @@
 
 An Arduino library to talk to [Robin Hood](https://robinhood.com/) using [non-documented Rest API](https://support.robinhood.com/hc/en-us/articles/210216823-Robinhood-API-Integrations) made for ESP8266. Some unofficial documentaion by @sanko is available at [here](https://github.com/sanko/Robinhood)
 
+[![ESP8266 RobinhoodAPI](https://img.youtube.com/vi/dZNI3xsheE0/0.jpg)](https://www.youtube.com/watch?v=dZNI3xsheE0)
+
 ## Using the Library
 * Download this GitHub [library](https://github.com/debsahu/RobinhoodAPI/archive/master.zip).
 * In Arduino, Goto Sketch -> Include Library -> Add .ZIP Library... and point to the zip file downloaded.
