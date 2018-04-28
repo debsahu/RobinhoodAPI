@@ -1,0 +1,13 @@
+{
+  "name": "RobinhoodAPI",
+  "keywords": "RobinHood", "stock"
+  "description": "Library for talking to RobinHood on ESP8266.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/debsahu/RobinhoodAPI.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "version": "0.1"
+}
